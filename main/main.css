@@ -162,17 +162,14 @@ section {
   }
 }
 #form form input::-moz-placeholder {
-  color: black;
   font-family: "Poppins", sans-serif;
   font-weight: 600;
 }
 #form form input:-ms-input-placeholder {
-  color: black;
   font-family: "Poppins", sans-serif;
   font-weight: 600;
 }
 #form form input::placeholder {
-  color: black;
   font-family: "Poppins", sans-serif;
   font-weight: 600;
 }
